@@ -1,14 +1,18 @@
 {
     "username":"Samar",
     "Loaction":"Tunis",
-    "Skils":["html","Css","Jvascript"],
+    "Skils":[["Html","Pudgjs","haml"],
+    ["Css","Saas","Less"],
+    ["js","Babel"]],
+    "SkilsProgress":[{"html" :"60%","PugJs":"50%"},{"Css":"70%" ,"Saas":"60%"}],
     "Adresses" :{
         "Egybt":"Hadayek",
-        "tunis":"Nabuel",
+        "tunis":"Nabeul",
         "France":"Paris",
         "Germany":["one","two","three"]
     },
     "Age": 21,
     "Working":false,
     "Identity":null
+    
 }

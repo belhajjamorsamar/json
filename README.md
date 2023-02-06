@@ -45,6 +45,8 @@ learn json and deal with  API's
 
  JSON Data/URL :https://jsonformatter.curiousconcept.com/
 
+ Json Validator :https://jsonlint.com/
+
 
 
 
