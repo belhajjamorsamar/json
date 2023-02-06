@@ -1,0 +1,14 @@
+{
+    "username":"Samar",
+    "Loaction":"Tunis",
+    "Skils":["html","Css","Jvascript"],
+    "Adresses" :{
+        "Egybt":"Hadayek",
+        "tunis":"Nabuel",
+        "France":"Paris",
+        "Germany":["one","two","three"]
+    },
+    "Age": 21,
+    "Working":false,
+    "Identity":null
+}

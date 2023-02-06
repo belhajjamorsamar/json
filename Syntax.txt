@@ -1,0 +1,20 @@
+Syntax
+
+- Data written inside Curly Braces  {}
+- Data Contains Key => Value
+- key and Value Separated By Colon : // Key : Value
+- key should be wrapped in duble quotes //"Kay" :Value
+- Separate Data By Comma (,) {"key":"value" ,"key" :"Value"}
+- Can Be written in one Line OR Multiple Lines Depend On Data
+- sQaure Brackets Contains Arrays[]
+- Curly Braces Containes objects{}
+
+
+Data Type 
+
+-Number
+-String
+-Json Object
+- Array 
+-Boolean
+-null 
