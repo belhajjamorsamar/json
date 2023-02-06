@@ -18,3 +18,7 @@ Data Type
 - Array 
 -Boolean
 -null 
+
+Accessesing in Data
+object : acces use " . "
+array: acces with index "[0]" 
